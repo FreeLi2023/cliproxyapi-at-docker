@@ -1,0 +1,2 @@
+# cliproxyapi-at-docker
+在飞牛的docker上部署cliproxyapi，并且用docker版的mihomo进行VPN代理，还要让外网的设置能访问到项目的API服务。
